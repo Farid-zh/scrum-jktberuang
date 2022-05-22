@@ -3,10 +3,7 @@
             <div class="section-title" data-aos="fade-up">
                 <h2>Testimonials</h2>
                 <p>
-                    Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-                    ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-                    quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-                    Quia fugiat sit in iste officiis commodi quidem hic quas.
+                We also have several testimonials that you have received from friends who care about the environment when using our services and website.
                 </p>
             </div>
 
@@ -16,10 +13,8 @@
                         <div class="testimonial-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Proin iaculis purus consequat sem cure digni ssim donec
-                                porttitora entum suscipit rhoncus. Accusantium quam,
-                                ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                risus at semper.
+                                It's an interactive website and has a great appearance and I'm also very happy 
+                                when I use this website when I want to channel aid funds for the polar bears out there.
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="" />
@@ -33,10 +28,10 @@
                         <div class="testimonial-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Export tempor illum tamen malis malis eram quae irure esse
-                                labore quem cillum quid cillum eram malis quorum velit fore
-                                eram velit sunt aliqua noster fugiat irure amet legam anim
-                                culpa.
+                                At first I only saw this website from google when I was looking for info about animals 
+                                in the north pole but I saw this website which contains important info about polar 
+                                bears and is also channeling funds for these animals, a very informative website and 
+                                interactive.
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="" />
@@ -50,9 +45,12 @@
                         <div class="testimonial-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Enim nisi quem export duis labore cillum quae magna enim
-                                sint quorum nulla quem veniam duis minim tempor labore quem
-                                eram duis noster aute amet eram fore quis sint minim.
+                                When watching an educational program on my TV, I saw that there was an 
+                                extinction threat to the polar bear. It really touched my heart and 
+                                I was looking for ways to help the bears. Then this website appeared, 
+                                I was hesitant at first but when I saw this web in person, Overall, 
+                                I immediately believed and participated in distributing the funds and 
+                                it turned out that these funds reached the bears.
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="" />
@@ -66,10 +64,9 @@
                         <div class="testimonial-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Fugiat enim eram quae cillum dolore dolor amet nulla culpa
-                                multos export minim fugiat minim velit minim dolor enim duis
-                                veniam ipsum anim magna sunt elit fore quem dolore labore
-                                illum veniam.
+                                Interesting and informative website, I really like this whole website and it makes me know 
+                                what a polar bear is and also I know that there is a distribution of funds there so 
+                                I join the program, hopefully it can help the lives of the bears.
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="" />
@@ -83,10 +80,9 @@
                         <div class="testimonial-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Quis quorum aliqua sint quem legam fore sunt eram irure
-                                aliqua veniam tempor noster veniam enim culpa labore duis
-                                sunt culpa nulla illum cillum fugiat legam esse veniam culpa
-                                fore nisi cillum quid.
+                                There should be many webs like this not only for bears but for all animals that are almost 
+                                endangered so that we can continue to preserve them and can still exist on this earth 
+                                so that later it can be witnessed to our grandchildren.
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="" />

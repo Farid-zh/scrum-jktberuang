@@ -7,97 +7,83 @@
             <ul class="faq-list">
                 <li>
                     <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">
-                        Non consectetur a erat nam at lectus urna duis?
+                    What do we need to do to protect this polar bear?
                         <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
                     </div>
                     <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                         <p>
-                            Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id
-                            volutpat lacus laoreet non curabitur gravida. Venenatis lectus
-                            magna fringilla urna porttitor rhoncus dolor purus non.
+                        You can prevent the occurrence of Global Warming or you can do a fundraising through this website.
                         </p>
                     </div>
                 </li>
 
                 <li>
                     <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">
-                        Feugiat scelerisque varius morbi enim nunc faucibus a
-                        pellentesque? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
+                    What can we do to prevent their extinction? 
+                    <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
                     </div>
                     <div id="faq2" class="collapse" data-bs-parent=".faq-list">
                         <p>
-                            Dolor sit amet consectetur adipiscing elit pellentesque
-                            habitant morbi. Id interdum velit laoreet id donec ultrices.
-                            Fringilla phasellus faucibus scelerisque eleifend donec
-                            pretium. Est pellentesque elit ullamcorper dignissim. Mauris
-                            ultrices eros in cursus turpis massa tincidunt dui.
+                        We have to start caring about our surroundings, start reducing air pollution, water pollution, and others.
                         </p>
                     </div>
                 </li>
 
                 <li>
                     <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">
-                        Dolor sit amet consectetur adipiscing elit pellentesque habitant
-                        morbi? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
+                    How does global warming affect the life of polar bears in the Arctic? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
                     </div>
                     <div id="faq3" class="collapse" data-bs-parent=".faq-list">
                         <p>
-                            Eleifend mi in nulla posuere sollicitudin aliquam ultrices
-                            sagittis orci. Faucibus pulvinar elementum integer enim. Sem
-                            nulla pharetra diam sit amet nisl suscipit. Rutrum tellus
-                            pellentesque eu tincidunt. Lectus urna duis convallis
-                            convallis tellus. Urna molestie at elementum eu facilisis sed
-                            odio morbi quis
+                        The impact of the increased temperature, 
+                        will make the ice at the poles melt and the temperature will increase (not cold anymore). 
+                        Polar bears have lost their habitat and have difficulty finding food. 
+                        Then the population will continue to decrease if the habitat is lost.
                         </p>
                     </div>
                 </li>
 
                 <li>
                     <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">
-                        Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                    Why are polar bears almost extinct?
                         <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
                     </div>
                     <div id="faq4" class="collapse" data-bs-parent=".faq-list">
                         <p>
-                            Dolor sit amet consectetur adipiscing elit pellentesque
-                            habitant morbi. Id interdum velit laoreet id donec ultrices.
-                            Fringilla phasellus faucibus scelerisque eleifend donec
-                            pretium. Est pellentesque elit ullamcorper dignissim. Mauris
-                            ultrices eros in cursus turpis massa tincidunt dui.
+                        One of them is global warming which has an impact on life on Earth. 
+                        With global warming, the ice sheets on Earth are also melting, especially in the Arctic Ocean. 
+                        In addition to increasing sea levels every year, 
+                        melting ice sheets threaten the habitat of polar bears and other fauna.
                         </p>
                     </div>
                 </li>
 
                 <li>
                     <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">
-                        Tempus quam pellentesque nec nam aliquam sem et tortor
-                        consequat? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
+                    What factors caused the extinction of these polar animals? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
                     </div>
                     <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                         <p>
-                            Molestie a iaculis at erat pellentesque adipiscing commodo.
-                            Dignissim suspendisse in est ante in. Nunc vel risus commodo
-                            viverra maecenas accumsan. Sit amet nisl suscipit adipiscing
-                            bibendum est. Purus gravida quis blandit turpis cursus in
+                        Loss of Habitat
+
+                        Most animals will not survive and experience extinction because they cannot find a 
+                        new place to live. For example, the melting of polar ice caps is causing polar 
+                        bears and penguins to lose their habitat. As a result, 
+                        both are now classified as endangered animals.
                         </p>
                     </div>
                 </li>
 
                 <li>
                     <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">
-                        Tortor vitae purus faucibus ornare. Varius vel pharetra vel
-                        turpis nunc eget lorem dolor?
+                    What is the conclusion of the story that the polar bear is threatened with habitat loss?
                         <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
                     </div>
                     <div id="faq6" class="collapse" data-bs-parent=".faq-list">
                         <p>
-                            Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris
-                            vitae ultricies leo integer malesuada nunc vel. Tincidunt eget
-                            nullam non nisi est sit amet. Turpis nunc eget lorem dolor
-                            sed. Ut venenatis tellus in metus vulputate eu scelerisque.
-                            Pellentesque diam volutpat commodo sed egestas egestas
-                            fringilla phasellus faucibus. Nibh tellus molestie nunc non
-                            blandit massa enim nec.
+                        THE CONCLUSION OF THE WEB IS IF THE INCREASE OF TEMPERATURE IN THE ARTIC 
+                        AREAS CONTINUES TO HAPPEN, THEN THIS CAN ACCELATE THE DESCRIPTION OF THE ICE BEARING HABITAT 
+                        AND ACCELERATE THE DECREASE OF THE POLICY BEAR POPULATION.
                         </p>
                     </div>
                 </li>
